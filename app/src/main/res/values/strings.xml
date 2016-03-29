@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Chap24_MultipleScreenSizes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="des_android">Để làm nghề lập trình, trước hết các bạn phải hiểu thế nào là lập trình viên. Lập trình viên là người thiết kế, xây dựng và bảo trì các chương trình máy tính (phần mềm). Bằng cách thao tác các đoạn mã (các ngôn ngữ) trên các công cụ lập trình, họ có thể tạo ra các chương trình mới, sửa lỗi hay nâng cấp chương trình đó để tăng tính hiệu quả của việc sử dụng máy tính.
+        \n\nCác lập trình viên thường có thể làm việc trên nhiều ngôn ngữ lập trình, trong đó chủ yếu là Java, C++, php, Asp, ASP.Net, Visual Basic.Net và C#.
+    \n\nCông việc của người lập trình được gọi là software engineering. Để làm ra một phần mềm, trước hết người ta phải tạo ra một “bản thiết kế” (framework), mỗi lập trình viên đảm nhiệm một phần việc, sau đó các phần được kết nối lại tạo thành một sản phẩm hoàn chỉnh. Lập trình viên được ví là những thợ “coding” (người ngồi gõ những dòng lệnh (code) trên máy tính), làm ra các phần mềm hoặc chỉnh sửa, phát triển nó dựa trên các công cụ lập trình.</string>
+</resources>
